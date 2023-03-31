@@ -1,6 +1,6 @@
 Name:		texlive-unisc
 Version:	63178
-Release:	1
+Release:	2
 Summary:	Unicode small caps with Lua/XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unisc

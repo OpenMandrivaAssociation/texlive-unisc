@@ -3,7 +3,7 @@ Version:	63178
 Release:	2
 Summary:	Unicode small caps with Lua/XeLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unisc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/unisc
 License:	gpl3+ fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unisc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unisc.doc.r%{version}.tar.xz
